@@ -9,3 +9,11 @@
 iarxii/iarxii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## License
+This project is Proprietary and Closed Source. All Rights Reserved.
+
+
+## Contributing
+Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute to this project.
